@@ -1,2 +1,4 @@
-# imagenes
-se utilizara como proyecto visual para completar la informacion del trabajo.
+# Imágenes
+
+## Descripción
+se utilizara cmo repositorio de imagenes 2026
